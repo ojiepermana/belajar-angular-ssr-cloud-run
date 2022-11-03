@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ojiepermana": {
+      "hosting": {
+        "web-angular-ssr": [
+          "web-angular-ssr"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ojiepermana"
+  }
+}
